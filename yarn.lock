@@ -4137,37 +4137,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"launchtab2@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "launchtab2@workspace:."
-  dependencies:
-    "@chakra-ui/react": 3.2.3
-    "@emotion/react": 11.14.0
-    "@eslint/js": ^9.17.0
-    "@types/react": 19.0.0
-    "@types/react-dom": 19.0.0
-    "@typescript-eslint/eslint-plugin": ^8.18.1
-    "@typescript-eslint/parser": ^8.18.1
-    "@vitejs/plugin-react": ^4.3.4
-    eslint: ^9.17.0
-    eslint-config-airbnb: ^19.0.4
-    eslint-config-prettier: ^9.1.0
-    eslint-plugin-import: ^2.31.0
-    eslint-plugin-jsx-a11y: ^6.10.2
-    eslint-plugin-prettier: ^5.2.1
-    eslint-plugin-react: ^7.37.2
-    eslint-plugin-react-hooks: ^5.1.0
-    eslint-plugin-react-refresh: ^0.4.16
-    globals: ^15.13.0
-    prettier: ^3.4.2
-    react: 19.0.0
-    react-dom: 19.0.0
-    typescript: ~5.6.2
-    typescript-eslint: ^8.18.1
-    vite: ^6.0.3
-  languageName: unknown
-  linkType: soft
-
 "levn@npm:^0.4.1":
   version: 0.4.1
   resolution: "levn@npm:0.4.1"
@@ -4227,6 +4196,37 @@ __metadata:
   checksum: c154ae1cbb0c2206d1501a0e94df349653c92c8cbb25236d7e85190bcaf4567a03ac6eb43166fabfa36fd35623694da7233e88d9601fbf411a9a481d85dbd2cb
   languageName: node
   linkType: hard
+
+"lt2@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "lt2@workspace:."
+  dependencies:
+    "@chakra-ui/react": 3.2.3
+    "@emotion/react": 11.14.0
+    "@eslint/js": ^9.17.0
+    "@types/react": 19.0.0
+    "@types/react-dom": 19.0.0
+    "@typescript-eslint/eslint-plugin": ^8.18.1
+    "@typescript-eslint/parser": ^8.18.1
+    "@vitejs/plugin-react": ^4.3.4
+    eslint: ^9.17.0
+    eslint-config-airbnb: ^19.0.4
+    eslint-config-prettier: ^9.1.0
+    eslint-plugin-import: ^2.31.0
+    eslint-plugin-jsx-a11y: ^6.10.2
+    eslint-plugin-prettier: ^5.2.1
+    eslint-plugin-react: ^7.37.2
+    eslint-plugin-react-hooks: ^5.1.0
+    eslint-plugin-react-refresh: ^0.4.16
+    globals: ^15.13.0
+    prettier: ^3.4.2
+    react: 19.0.0
+    react-dom: 19.0.0
+    typescript: ~5.6.2
+    typescript-eslint: ^8.18.1
+    vite: ^6.0.3
+  languageName: unknown
+  linkType: soft
 
 "make-fetch-happen@npm:^14.0.3":
   version: 14.0.3
